@@ -1,16 +1,5 @@
-# fa23-cs411-team058-HelloWorld
-This is a template for CS411 project repository. Please make sure that your title follows the convention: [TeamID]-[YourTeamName]. All TeamID should have a three digit coding (i.e. if you are team 20, you should have `team020` as your ID.). You should also make sure that your url for this repository is [fa23-cs411-team000-teamname.git] so TAs can correctly clone your repository and keep them up-to-date.
+#Project Summary
 
-Once you setup your project, please remember to submit your team formation to the team form.
+CNBC estimates that more than 50% of Americans do not buy flight insurance for their non-refundable flights while traveling anywhere around the world. Furthermore, passengers who do not rely on booking agents are less likely to opt in for insurance. In the US, there are 330 million people, which means that 165 million of them are in a situation where they might benefit from having flight insurance. Missed flights, canceled trips, and sudden medical issues are a few examples of these situations. In some circumstances, people were also required to pay extra for alternative transportation or lodging incase of missed or delayed flights. Some of the common reasons why people avoid purchasing flight insurance are because they either consider it to be overly pricey, or they assume they won't require it, or they are unaware of what the insurance plan covers.
 
-## Permission
-You should make sure you allow TAs to access your repository. You can add TA(s) as a collaborator to your repository.
-
-## Preparing for your release
-Eash submission should be in it's own [release](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases). Release are specific freezes to your repository. You should submit your commit hash on canvas or google sheet. When tagging your stage, please use the tag `stage.x` where x is the number to represent the stage.
-
-## Keeping things up-to-date
-You should make sure you keep your project root files up-to-date. Information for each file/folders are explained.
-
-## Code Contribution
-Individual code contribution will be used to evaluate individual contribution to the project.
+Now, here in our project we have chosen to target and solve the “they assume they won’t require it” problem statement. We will be tackling this problem statement by utilizing the flight delays data set to predict which flights would be delayed in the future and potentially also suggest to the user whether or not they should be purchasing the insurance based on the predicted probability of their flight being delayed or canceled due to the various unprecedented reasons. We also partially target and suggest other possibilities to the “ they either consider it to be overly pricey” problem statement. If the user does not wish to pay for insurance, we also provide them with a personalized list of recommendations of the airlines they should choose to minimize their risk of facing circumstances due to the delays and cancellations.
