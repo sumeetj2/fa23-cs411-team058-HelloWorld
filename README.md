@@ -1,4 +1,4 @@
-#Project Summary
+## Project Summary
 
 CNBC estimates that more than 50% of Americans do not buy flight insurance for their non-refundable flights while traveling anywhere around the world. Furthermore, passengers who do not rely on booking agents are less likely to opt in for insurance. In the US, there are 330 million people, which means that 165 million of them are in a situation where they might benefit from having flight insurance. Missed flights, canceled trips, and sudden medical issues are a few examples of these situations. In some circumstances, people were also required to pay extra for alternative transportation or lodging incase of missed or delayed flights. Some of the common reasons why people avoid purchasing flight insurance are because they either consider it to be overly pricey, or they assume they won't require it, or they are unaware of what the insurance plan covers.
 
